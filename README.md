@@ -1,3 +1,4 @@
 # playground
 Images:
-[[images/ACList.png]]
+![ACList](/images/ACList.png)
+
