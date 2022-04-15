@@ -1,5 +1,5 @@
 # playground
 Images:
 
-<img src="images/ACList.png" width="300">
+<img src="images/ACList.png" width="400">
 
